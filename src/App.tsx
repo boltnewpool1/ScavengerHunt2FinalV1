@@ -220,9 +220,9 @@ function App() {
         <div className="flex justify-center space-x-4 mb-8">
           <div className="hidden sm:flex items-center mr-4">
             <img 
-              src="/GABI v2 Scavenger Hunt (1).gif" 
+              src="/image.png" 
               alt="GABI Logo" 
-              className="w-12 h-8 object-contain rounded-lg border border-white/20 bg-white/10 backdrop-blur-sm p-1"
+              className="w-10 h-10 object-contain rounded-lg border border-white/20 bg-white/10 backdrop-blur-sm p-1"
             />
           </div>
           <button
@@ -327,9 +327,9 @@ function App() {
           <div className="text-center text-white/60">
             <div className="flex items-center justify-center mb-4">
               <img 
-                src="/GABI v2 Scavenger Hunt (1).gif" 
+                src="/image.png" 
                 alt="GABI Logo" 
-                className="w-16 h-10 object-contain rounded-lg border border-white/20 bg-white/10 backdrop-blur-sm p-2"
+                className="w-12 h-12 object-contain rounded-lg border border-white/20 bg-white/10 backdrop-blur-sm p-2"
               />
             </div>
             <p className="mb-2">🎊 Good luck to all participants! 🎊</p>
