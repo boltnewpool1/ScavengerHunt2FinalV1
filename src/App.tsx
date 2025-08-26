@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from 'react';
-import { Trophy, Settings, Play, RotateCcw, Sparkles, Database } from 'lucide-react';
+import { Trophy, Settings, Play, RotateCcw, Sparkles, Database, Users } from 'lucide-react';
 import FloatingOrbs from './components/FloatingOrbs';
 import Confetti from './components/Confetti';
 import RaffleWheel from './components/RaffleWheel';
 import WinnersDashboard from './components/WinnersDashboard';
 import WinnerPopup from './components/WinnerPopup';
+import GuidesListing from './components/GuidesListing';
 import { supabase, Winner } from './lib/supabase';
 import guidesData from './data/guides.json';
 
@@ -32,6 +33,7 @@ function App() {
   const [showConfetti, setShowConfetti] = useState(false);
   const [showSettings, setShowSettings] = useState(false);
   const [showDashboard, setShowDashboard] = useState(false);
+  const [showGuidesListing, setShowGuidesListing] = useState(false);
   const [winnerPopup, setWinnerPopup] = useState<{ isOpen: boolean; winner: Guide | null }>({
     isOpen: false,
     winner: null
@@ -170,6 +172,11 @@ function App() {
   const totalPrizePool = dbWinners.reduce((sum, winner) => sum + winner.prize_amount, 0);
   const remainingPrizePool = 30000 - totalPrizePool;
 
+  // Show guides listing page
+  if (showGuidesListing) {
+    return <GuidesListing onClose={() => setShowGuidesListing(false)} />;
+  }
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-indigo-900 via-purple-900 to-pink-900 relative overflow-hidden">
       <FloatingOrbs />
@@ -231,6 +238,13 @@ function App() {
           >
             <Database className="w-4 h-4 mr-2" />
             {showDashboard ? 'Hide Dashboard' : 'Show Dashboard'}
+          </button>
+          <button
+            onClick={() => setShowGuidesListing(true)}
+            className="bg-white/20 hover:bg-white/30 text-white font-medium py-2 px-6 rounded-lg transition-colors duration-200 backdrop-blur-sm flex items-center"
+          >
+            <Users className="w-4 h-4 mr-2" />
+            View All Guides
           </button>
           <button
             onClick={() => setShowSettings(!showSettings)}
