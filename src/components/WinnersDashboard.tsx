@@ -110,6 +110,11 @@ const WinnersDashboard: React.FC<WinnersDashboardProps> = ({ onWinnersUpdate }) 
     <div className="bg-white rounded-2xl p-6 shadow-xl">
       <div className="flex items-center justify-between mb-6">
         <div className="flex items-center">
+          <img 
+            src="/GABI v2 Scavenger Hunt (1).gif" 
+            alt="GABI Logo" 
+            className="w-10 h-6 object-contain rounded mr-3 border border-gray-200"
+          />
           <Trophy className="w-6 h-6 text-yellow-500 mr-2" />
           <h2 className="text-2xl font-bold text-gray-800">Winners Dashboard</h2>
         </div>

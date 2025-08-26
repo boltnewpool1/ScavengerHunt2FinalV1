@@ -91,6 +91,11 @@ const RaffleWheel: React.FC<RaffleWheelProps> = ({
     <div className={`bg-gradient-to-br ${bgGradient} rounded-2xl p-6 shadow-2xl transform transition-all duration-300 hover:scale-105`}>
       <div className="text-center mb-6">
         <div className="flex items-center justify-center mb-2">
+          <img 
+            src="/GABI v2 Scavenger Hunt (1).gif" 
+            alt="GABI Logo" 
+            className="w-8 h-5 object-contain rounded mr-2 border border-white/20 bg-white/10 backdrop-blur-sm p-0.5"
+          />
           <Trophy className="w-6 h-6 text-yellow-300 mr-2" />
           <h3 className="text-xl font-bold text-white">{department}</h3>
         </div>

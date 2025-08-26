@@ -179,11 +179,16 @@ function App() {
         {/* Header */}
         <div className="text-center mb-12">
           <div className="flex items-center justify-center mb-6">
-            <img 
-              src="/public/GABI v2 Scavenger Hunt (1).gif" 
-              alt="GABI V2 Logo" 
-              className="w-80 h-48 object-contain rounded-2xl shadow-2xl border-4 border-white/20 bg-white/10 backdrop-blur-sm p-4"
-            />
+            <div className="relative">
+              <img 
+                src="/GABI v2 Scavenger Hunt (1).gif" 
+                alt="GABI V2 Logo" 
+                className="w-64 sm:w-80 lg:w-96 h-32 sm:h-48 lg:h-56 object-contain rounded-2xl shadow-2xl border-4 border-white/20 bg-white/10 backdrop-blur-sm p-4"
+              />
+              <div className="absolute -top-2 -right-2 bg-yellow-400 rounded-full p-2 animate-bounce">
+                <Trophy className="w-6 h-6 text-yellow-800" />
+              </div>
+            </div>
           </div>
           <h1 className="text-5xl font-bold text-white mb-4 animate-pulse">
             GABI V2 Scavenger Hunt
@@ -213,6 +218,13 @@ function App() {
 
         {/* Controls */}
         <div className="flex justify-center space-x-4 mb-8">
+          <div className="hidden sm:flex items-center mr-4">
+            <img 
+              src="/GABI v2 Scavenger Hunt (1).gif" 
+              alt="GABI Logo" 
+              className="w-12 h-8 object-contain rounded-lg border border-white/20 bg-white/10 backdrop-blur-sm p-1"
+            />
+          </div>
           <button
             onClick={() => setShowDashboard(!showDashboard)}
             className="bg-white/20 hover:bg-white/30 text-white font-medium py-2 px-6 rounded-lg transition-colors duration-200 backdrop-blur-sm flex items-center"
@@ -313,6 +325,13 @@ function App() {
         {/* Footer */}
         {!showDashboard && (
           <div className="text-center text-white/60">
+            <div className="flex items-center justify-center mb-4">
+              <img 
+                src="/GABI v2 Scavenger Hunt (1).gif" 
+                alt="GABI Logo" 
+                className="w-16 h-10 object-contain rounded-lg border border-white/20 bg-white/10 backdrop-blur-sm p-2"
+              />
+            </div>
             <p className="mb-2">🎊 Good luck to all participants! 🎊</p>
             <p className="text-sm">Each winner receives ₹5,000 prize money | Total Pool: ₹30,000</p>
             <div className="mt-4 pt-4 border-t border-white/20">
