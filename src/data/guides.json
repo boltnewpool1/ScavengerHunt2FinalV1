@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Madgula Navya Sree",
+    "supervisor": "Vincy, Vijay",
+    "department": "APAC",
+    "discoveryScore": "100.00%",
+    "nps": 78.38
+  },
+  {
+    "name": "Neelesh Urmaliya",
+    "supervisor": "Sangeetha, Mokirala",
+    "department": "APAC",
+    "discoveryScore": "100.00%",
+    "nps": 72.50
+  },
+  {
+    "name": "Swarna Chintha",
+    "supervisor": "Vincy, Vijay",
+    "department": "APAC",
+    "discoveryScore": "100.00%",
+    "nps": 70.59
+  },
+  {
+    "name": "Baseeruddin Mohammed",
+    "supervisor": "Sangeetha, Mokirala",
+    "department": "APAC",
+    "discoveryScore": "100.00%",
+    "nps": 69.44
+  },
+  {
+    "name": "Pothuraju Rajesh",
+    "supervisor": "Vincy, Vijay",
+    "department": "APAC",
+    "discoveryScore": "100.00%",
+    "nps": 68.89
+  },
+  {
+    "name": "Laveena Godi",
+    "supervisor": "Sunitha, Kotiyal",
+    "department": "APAC",
+    "discoveryScore": "66.67%",
+    "nps": 80.00
+  },
+  {
+    "name": "Shikari Vishwajith",
+    "supervisor": "Sunitha, Kotiyal",
+    "department": "APAC",
+    "discoveryScore": "66.67%",
+    "nps": 69.39
+  },
+  {
+    "name": "Mohammad Mazharuddin",
+    "supervisor": "Sunitha, Kotiyal",
+    "department": "APAC",
+    "discoveryScore": "66.67%",
+    "nps": 66.67
+  },
+  {
+    "name": "Shreyas Ramagiri",
+    "supervisor": "Kumar, Belde Anish",
+    "department": "APAC",
+    "discoveryScore": "50.00%",
+    "nps": 84.09
+  },
+  {
+    "name": "Saiteja Turupathi",
+    "supervisor": "Sunitha, Kotiyal",
+    "department": "APAC",
+    "discoveryScore": "50.00%",
+    "nps": 72.92
+  },
+  {
+    "name": "Azeem Mohd",
+    "supervisor": "Sunitha, Kotiyal",
+    "department": "APAC",
+    "discoveryScore": "50.00%",
+    "nps": 66.67
+  },
+  {
+    "name": "Alex Rajeev",
+    "supervisor": "Sunitha, Kotiyal",
+    "department": "APAC",
+    "discoveryScore": "100.00%",
+    "nps": 74.51
+  },
+  {
+    "name": "Udaykrishna Kondameedi",
+    "supervisor": "Atree",
+    "department": "India Messaging",
+    "discoveryScore": "100.00%",
+    "nps": 77.78
+  },
+  {
+    "name": "Harshith Kotra",
+    "supervisor": "Shanthi",
+    "department": "India Messaging",
+    "discoveryScore": "100.00%",
+    "nps": 70.59
+  },
+  {
+    "name": "Asaduddin Mohammad",
+    "supervisor": "Atree",
+    "department": "India Messaging",
+    "discoveryScore": "100.00%",
+    "nps": 70.00
+  },
+  {
+    "name": "Srija Bethi",
+    "supervisor": "Atree",
+    "department": "India Messaging",
+    "discoveryScore": "100.00%",
+    "nps": 69.23
+  },
+  {
+    "name": "Mohammed Sayeed",
+    "supervisor": "Atree",
+    "department": "India Messaging",
+    "discoveryScore": "50.00%",
+    "nps": 75.51
+  },
+  {
+    "name": "Rakshitha Yelthuri",
+    "supervisor": "Atree",
+    "department": "India Messaging",
+    "discoveryScore": "50.00%",
+    "nps": 70.37
+  },
+  {
+    "name": "Pranathi Belide",
+    "supervisor": "Atree",
+    "department": "India Messaging",
+    "discoveryScore": "50.00%",
+    "nps": 68.42
+  },
+  {
+    "name": "Naresh Pasunoori",
+    "supervisor": "Atree",
+    "department": "India Messaging",
+    "discoveryScore": "100.00%",
+    "nps": 100.00
+  },
+  {
+    "name": "Radhika balasani",
+    "supervisor": "Prashanth G",
+    "department": "India Messaging",
+    "discoveryScore": "100.00%",
+    "nps": 81.25
+  },
+  {
+    "name": "Rachana Eppa",
+    "supervisor": "Shanthi",
+    "department": "India Messaging",
+    "discoveryScore": "100.00%",
+    "nps": 72.73
+  },
+  {
+    "name": "Vamshi Banothu",
+    "supervisor": "Srikanth",
+    "department": "India Messaging",
+    "discoveryScore": "100.00%",
+    "nps": 72.73
+  },
+  {
+    "name": "Sambaraju Nalla",
+    "supervisor": "Atree",
+    "department": "India Messaging",
+    "discoveryScore": "100.00%",
+    "nps": 66.67
+  },
+  {
+    "name": "Poojitha Avula",
+    "supervisor": "Atree",
+    "department": "India Messaging",
+    "discoveryScore": "66.67%",
+    "nps": 100.00
+  },
+  {
+    "name": "Gayathri Kunduru",
+    "supervisor": "Atree",
+    "department": "India Messaging",
+    "discoveryScore": "66.67%",
+    "nps": 90.00
+  },
+  {
+    "name": "Prashanth Byram",
+    "supervisor": "Shanthi",
+    "department": "India Messaging",
+    "discoveryScore": "66.67%",
+    "nps": 84.62
+  },
+  {
+    "name": "Srinithya Kandikonda",
+    "supervisor": "Srikanth",
+    "department": "India Messaging",
+    "discoveryScore": "50.00%",
+    "nps": 82.35
+  },
+  {
+    "name": "Likitha Sappidi",
+    "supervisor": "Srikanth",
+    "department": "India Messaging",
+    "discoveryScore": "50.00%",
+    "nps": 80.00
+  },
+  {
+    "name": "Ramya Padakanti",
+    "supervisor": "Srikanth",
+    "department": "India Messaging",
+    "discoveryScore": "50.00%",
+    "nps": 78.57
+  },
+  {
+    "name": "Prathyush Godishala",
+    "supervisor": "Atree",
+    "department": "India Messaging",
+    "discoveryScore": "50.00%",
+    "nps": 73.68
+  },
+  {
+    "name": "Rajashekaran Venkatesh",
+    "supervisor": "Kalyan Chetty",
+    "department": "International Messaging",
+    "discoveryScore": "100.00%",
+    "nps": 84.85
+  },
+  {
+    "name": "Sai Pavan Kumar",
+    "supervisor": "Shaik Shoaib",
+    "department": "International Messaging",
+    "discoveryScore": "100.00%",
+    "nps": 84.38
+  },
+  {
+    "name": "Aravindhan Elumalai",
+    "supervisor": "Shaik Shoaib",
+    "department": "International Messaging",
+    "discoveryScore": "100.00%",
+    "nps": 77.14
+  },
+  {
+    "name": "Varganti Ramya",
+    "supervisor": "Shaik Shoaib",
+    "department": "International Messaging",
+    "discoveryScore": "100.00%",
+    "nps": 73.91
+  },
+  {
+    "name": "Arvind Bandari",
+    "supervisor": "Shaik Shoaib",
+    "department": "International Messaging",
+    "discoveryScore": "100.00%",
+    "nps": 72.00
+  },
+  {
+    "name": "K AVINASH",
+    "supervisor": "Shaik Shoaib",
+    "department": "International Messaging",
+    "discoveryScore": "50.00%",
+    "nps": 76.92
+  },
+  {
+    "name": "Shiva G",
+    "supervisor": "Shaik Shoaib",
+    "department": "International Messaging",
+    "discoveryScore": "50.00%",
+    "nps": 75.00
+  },
+  {
+    "name": "Saneem Sultan",
+    "supervisor": "Shaik Shoaib",
+    "department": "International Messaging",
+    "discoveryScore": "50.00%",
+    "nps": 69.44
+  },
+  {
+    "name": "Panugulla Kumar Goud",
+    "supervisor": "Shaik Shoaib",
+    "department": "International Messaging",
+    "discoveryScore": "50.00%",
+    "nps": 66.67
+  },
+  {
+    "name": "Soumya Muppidi",
+    "supervisor": "Chandrasekhar Palem",
+    "department": "International Messaging",
+    "discoveryScore": "100.00%",
+    "nps": 65.00
+  },
+  {
+    "name": "SAGANTI NIKHITHA",
+    "supervisor": "Chandrasekhar Palem",
+    "department": "International Messaging",
+    "discoveryScore": "50.00%",
+    "nps": 89.74
+  },
+  {
+    "name": "Kotagiri Sai Raj",
+    "supervisor": "Prashanth G C",
+    "department": "International Messaging",
+    "discoveryScore": "50.00%",
+    "nps": 85.29
+  },
+  {
+    "name": "Shalini Lingala",
+    "supervisor": "Abdul Rahman",
+    "department": "International Messaging",
+    "discoveryScore": "100.00%",
+    "nps": 77.14
+  },
+  {
+    "name": "Ayesha Siddiqua",
+    "supervisor": "Srikanth Janga",
+    "department": "International Messaging",
+    "discoveryScore": "66.67%",
+    "nps": 82.14
+  },
+  {
+    "name": "Deepika Kondapaka",
+    "supervisor": "Abdul Rahman",
+    "department": "International Messaging",
+    "discoveryScore": "66.67%",
+    "nps": 77.27
+  },
+  {
+    "name": "Dhanraj JS",
+    "supervisor": "Srikanth Janga",
+    "department": "International Messaging",
+    "discoveryScore": "66.67%",
+    "nps": 75.93
+  },
+  {
+    "name": "Syed Uddin",
+    "supervisor": "Kalyan Chetty",
+    "department": "International Messaging",
+    "discoveryScore": "66.67%",
+    "nps": 72.73
+  },
+  {
+    "name": "Rohith Kasireddy",
+    "supervisor": "Srikanth Janga",
+    "department": "International Messaging",
+    "discoveryScore": "66.67%",
+    "nps": 68.33
+  },
+  {
+    "name": "Akanacheti Anil",
+    "supervisor": "Sangeeta Bhuyan",
+    "department": "International Messaging",
+    "discoveryScore": "100.00%",
+    "nps": 69.44
+  }
+]
